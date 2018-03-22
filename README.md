@@ -1,7 +1,7 @@
 # Newbies
 A repository made for the beginners in GitHub to get used to it
 
-You can .md file related to the topic to explain it, or the maths behind it... literally anything !!
+Just write .md file related to the topic you know about to explain it, can also add the maths behind it... literally anything !! and venture to the open source world
 
 This would help you to create pull requests, get it merged and get used to the real open source environment.
 
